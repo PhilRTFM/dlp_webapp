@@ -1,7 +1,7 @@
 # dlp_webapp
 
-[![GitHub issues](https://img.shields.io/github/issues/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/network)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app](https://github.com/BioTechRacoon/dlp_webapp)/issues)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app]/network)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/stargazers)
 [![GitHub license](https://img.shields.io/github/license/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/blob/master/LICENSE)
 
@@ -26,6 +26,6 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to install Video Downloader Web App:
 
 ```bash
-git clone https://github.com/your-username/video-downloader-web-app.git
+git clone https://github.com/BioTechRacoon/dlp_webapp.git
 cd video-downloader-web-app
 ./install.sh
