@@ -1,9 +1,9 @@
 # dlp_webapp
 
-[![GitHub issues](https://img.shields.io/github/issues/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app](https://github.com/BioTechRacoon/dlp_webapp)/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app]/network)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/stargazers)
-[![GitHub license](https://img.shields.io/github/license/your-username/video-downloader-web-app)](https://github.com/your-username/video-downloader-web-app/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/BioTechRacoon/dlp_webapp)](https://github.com/BioTechRacoon/dlp_webapp](https://github.com/BioTechRacoon/dlp_webapp)/issues)
+[![GitHub forks](https://img.shields.io/github/forks/BioTechRacoon/dlp_webapp)](BioTechRacoon/dlp_webapp/network)
+[![GitHub stars](https://img.shields.io/github/stars/BioTechRacoon/dlp_webapp)](BioTechRacoon/dlp_webapp/stargazers)
+[![GitHub license](https://img.shields.io/github/license/BioTechRacoon/dlp_webapp)](https://github.com/BioTechRacoon/dlp_webapp/blob/master/LICENSE)
 
 This is a simple and efficient web application built with Flask, designed to download videos from various sources using the `yt_dlp` library. It's perfect for users who need a reliable tool to save videos locally for offline access.
 
