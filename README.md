@@ -1,12 +1,10 @@
 # dlp_webapp
-
+![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+![Flask](https://img.shields.io/badge/flask-v1.x-blue.svg)
 [![GitHub issues](https://img.shields.io/github/issues/BioTechRacoon/dlp_webapp)](https://github.com/BioTechRacoon/dlp_webapp](https://github.com/BioTechRacoon/dlp_webapp)/issues)
 [![GitHub forks](https://img.shields.io/github/forks/BioTechRacoon/dlp_webapp)](BioTechRacoon/dlp_webapp/network)
 [![GitHub stars](https://img.shields.io/github/stars/BioTechRacoon/dlp_webapp)](BioTechRacoon/dlp_webapp/stargazers)
-[![GitHub license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](https://github.com/BioTechRacoon/dlp_webapp/blob/master/LICENSE)
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![Flask](https://img.shields.io/badge/flask-v1.x-blue.svg)
-
+[![GitHub license](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](https://github.com/BioTechRacoon/dlp_webapp/blob/master/LICENSE)
 This is a simple and efficient web application built with Flask, designed to download videos from various sources using the `yt_dlp` library. It's perfect for users who need a reliable tool to save videos locally for offline access.
 
 ![image](https://github.com/BioTechRacoon/dlp_webapp/assets/106185720/1263a528-caaf-4144-afec-8f719091d081)
