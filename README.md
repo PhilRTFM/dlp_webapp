@@ -20,12 +20,12 @@ This is a simple and efficient web application built with Flask, designed to dow
 
 Before you begin, ensure you have met the following requirements:
 
-```bash
-pip install requirements
-```
-
 - You have installed the latest version of [Python](https://www.python.org/downloads/).
 - You have a `Windows/Linux/Mac` machine.
+
+```bash
+pip install requirements.txt
+```
 
 ## Installation
 
