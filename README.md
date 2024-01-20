@@ -36,3 +36,13 @@ git clone https://github.com/BioTechRacoon/dlp_webapp.git
 cd video-downloader-web-app
 ./install.sh
 ```
+
+## Usage
+
+To use Video Downloader Web App, follow these steps:
+
+```bash
+./launch.sh
+```
+
+Open your web browser and navigate to `http://localhost:5000`. Enter the video URL you want to download and the application will handle the rest.
