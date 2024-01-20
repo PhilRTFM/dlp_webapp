@@ -19,6 +19,11 @@ This is a simple and efficient web application built with Flask, designed to dow
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
+
+```bash
+pip install requirements
+```
+
 - You have installed the latest version of [Python](https://www.python.org/downloads/).
 - You have a `Windows/Linux/Mac` machine.
 
@@ -30,3 +35,4 @@ Follow these steps to install Video Downloader Web App:
 git clone https://github.com/BioTechRacoon/dlp_webapp.git
 cd video-downloader-web-app
 ./install.sh
+```
